@@ -1,0 +1,35 @@
+<svg width="1100" height="420" viewBox="0 0 1100 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Selected case studies</title>
+  <desc id="desc">Three selected anonymous case-study cards for Agent, RAG and GIS work.</desc>
+  <rect width="1100" height="420" fill="#ffffff"/>
+  <rect x="10" y="10" width="1080" height="400" rx="12" fill="#faf8f5" stroke="#e5e1dc"/>
+  <text x="40" y="54" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="26" font-weight="780">精选方向案例</text>
+  <text x="40" y="84" fill="#78716c" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="15">先展示能力和项目形态；具体仓库链接在复查后补充</text>
+  <g transform="translate(40 120)">
+    <rect width="320" height="240" rx="12" fill="#ffffff" stroke="#e5e1dc"/>
+    <rect x="24" y="24" width="54" height="54" rx="10" fill="#fff7ed" stroke="#fed7aa"/>
+    <path d="M39 51h24M51 39v24" stroke="#b45309" stroke-width="5" stroke-linecap="round"/>
+    <text x="24" y="112" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="20" font-weight="760">多智能体研究工作台</text>
+    <text x="24" y="144" fill="#57534e" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="14">问题拆解、搜索、分析、写作与</text>
+    <text x="24" y="166" fill="#57534e" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="14">执行状态可视化。</text>
+    <text x="24" y="206" fill="#9a3412" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="13" font-weight="700">LangGraph · WebSocket · React Flow</text>
+  </g>
+  <g transform="translate(390 120)">
+    <rect width="320" height="240" rx="12" fill="#ffffff" stroke="#e5e1dc"/>
+    <rect x="24" y="24" width="54" height="54" rx="10" fill="#f0fdf4" stroke="#bbf7d0"/>
+    <path d="M34 54c10-20 25-20 35 0M51 34l24 42" stroke="#059669" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="24" y="112" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="20" font-weight="760">领域文档 RAG 面板</text>
+    <text x="24" y="144" fill="#57534e" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="14">把专业文档、代码示例和检索</text>
+    <text x="24" y="166" fill="#57534e" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="14">策略组织成可调试知识库。</text>
+    <text x="24" y="206" fill="#166534" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="13" font-weight="700">FTS · Vector Search · Reranking</text>
+  </g>
+  <g transform="translate(740 120)">
+    <rect width="320" height="240" rx="12" fill="#ffffff" stroke="#e5e1dc"/>
+    <rect x="24" y="24" width="54" height="54" rx="10" fill="#ecfdf5" stroke="#a7f3d0"/>
+    <path d="M30 52h42M51 31v42M36 39c15 9 29 9 44 0M36 65c15-9 29-9 44 0" stroke="#047857" stroke-width="4" stroke-linecap="round"/>
+    <text x="24" y="112" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="20" font-weight="760">GIS / Web 可视化</text>
+    <text x="24" y="144" fill="#57534e" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="14">面向空间数据、地图交互和</text>
+    <text x="24" y="166" fill="#57534e" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="14">WebGL 场景的前端表达。</text>
+    <text x="24" y="206" fill="#047857" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="13" font-weight="700">PostGIS · WebGL · Spatial Data</text>
+  </g>
+</svg>
