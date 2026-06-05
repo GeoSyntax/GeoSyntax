@@ -1,138 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:b45309,100:059669&text=GeoSyntax&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Python%20%C2%B7%20Agent%20%C2%B7%20RAG%20%C2%B7%20GIS&descAlignY=62&descSize=16" alt="GeoSyntax profile banner" />
-
-[![Profile views](https://komarev.com/ghpvc/?username=GeoSyntax&style=flat-square&color=b45309)](https://github.com/GeoSyntax)
-[![Followers](https://img.shields.io/github/followers/GeoSyntax?style=flat-square&label=Followers&color=059669)](https://github.com/GeoSyntax?tab=followers)
-[![Profile](https://img.shields.io/badge/Profile-Privacy%20Aware-292524?style=flat-square)](https://github.com/GeoSyntax)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=451A03&center=true&vCenter=true&width=720&lines=Agent+%E5%B7%A5%E4%BD%9C%E6%B5%81+%C2%B7+RAG+%E7%B3%BB%E7%BB%9F+%C2%B7+GIS+%E5%8F%AF%E8%A7%86%E5%8C%96;%E6%8A%8A%E6%A3%80%E7%B4%A2%E3%80%81%E8%87%AA%E5%8A%A8%E5%8C%96%E5%92%8C%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE%E5%81%9A%E6%88%90%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84%E5%B7%A5%E7%A8%8B;%E5%85%AC%E5%BC%80%E5%86%85%E5%AE%B9%E4%BF%9D%E6%8C%81%E7%B2%BE%E7%AE%80%E3%80%81%E7%9C%9F%E5%AE%9E%E3%80%81%E4%BD%8E%E9%A3%8E%E9%99%A9" alt="typing intro" />
+<img src="./assets/profile-banner.svg" alt="GeoSyntax · Agent 工作流 · RAG 系统 · GIS / Web 可视化" width="100%" />
 
 </div>
 
----
+## 公开定位
 
-## 关于我
+我是一个偏工程实践的开发者，主要关注 **Python 后端、Agent 工作流、RAG 系统、GIS / Web 可视化**。
 
-我主要关注 **Python、Agent 工作流、RAG 系统、GIS / Web 可视化**。
-
-这个主页暂时只展示公开作品集需要的信息。个人身份、具体院校、城市、联系方式和本地文件不会默认公开；后续如果要补充公开链接，会先做隐私检查。
+这个主页面向外部访客展示：我在做什么、擅长什么、如何维护项目。个人识别信息暂时不公开，项目链接也会在完成内容复查后再逐步补充。
 
 ```text
-方向    Agent 工作流 / RAG 系统 / 自动化工具 / GIS 可视化
-产出    小型工具、协议适配、命令行工具、前端实验、知识库实践
-原则    可维护、可复盘、少量公开、隐私优先
+Core      Agent 工作流 / RAG 系统 / 自动化工具 / 空间数据可视化
+Build     后端服务、检索系统、CLI 工具、前端实验、工程化小工具
+Method    先验证、再沉淀；先复查、再公开；少量提交、持续维护
 ```
 
-## 当前关注
+## 能力地图
 
 <table>
   <tr>
     <td width="50%">
-      <b>Agent 工作流</b><br />
-      任务拆解、工具调用、流式状态、工作流可观察性，以及多步骤任务的稳定执行。
+      <b>Agent Engineering</b><br />
+      关注任务拆解、工具调用、状态流转、事件推送和工作流可观察性。目标是让复杂任务从“能跑”变成“可追踪、可维护”。
     </td>
     <td width="50%">
-      <b>RAG 与领域知识库</b><br />
-      全文检索、向量检索、结果融合、重排策略，以及专业文档的组织方式。
+      <b>RAG Systems</b><br />
+      关注全文检索、向量检索、结果融合、重排策略和领域知识库组织。重点是检索质量、上下文治理和可调试链路。
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <b>Web 与自动化</b><br />
-      浏览器脚本、小型 CLI、协议适配、接口封装和日常工作流工具化。
+      <b>Backend & Automation</b><br />
+      使用 Python、FastAPI、SQLAlchemy、SQLite 等工具构建后端服务，也会把重复流程整理成脚本、CLI 或浏览器侧工具。
     </td>
     <td width="50%">
-      <b>GIS / Web 可视化</b><br />
-      空间数据、地图交互、WebGL、PostGIS 和面向 Web 的可视化表达。
+      <b>GIS / Visualization</b><br />
+      关注空间数据、地图交互、WebGL、PostGIS 和 Web 可视化，把地理空间背景与 AI 应用工程结合起来。
     </td>
   </tr>
 </table>
 
 ## 技术栈
 
-<p>
-  <img src="https://img.shields.io/badge/Python-292524?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-292524?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-292524?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Go-292524?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/React-292524?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-292524?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQLite-292524?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PostGIS-292524?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
-  <img src="https://img.shields.io/badge/Git-292524?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
-```text
-Agent       LangGraph / tool calling / workflow state / streaming events
-RAG         FTS / vector search / RRF / reranking / domain knowledge bases
-Frontend    React / TypeScript / React Flow / TanStack Query
-Backend     Python / FastAPI / SQLAlchemy / SQLite / automation scripts
-GIS         spatial data / Web GIS / WebGL / PostGIS / visualization
-```
-
-## 项目展示策略
-
-暂时不在主页直接放具体仓库列表。
-
-当前主页先表达技术方向、维护习惯和公开边界；具体仓库会在确认内容适合公开、没有隐私风险之后再逐步补充。
-
-```text
-公开主页      展示方向、技术栈、维护原则
-公开仓库      放已经整理过、适合分享的项目
-私有记录      放学习日志、项目复盘、隐私检查和阶段总结
-```
-
-## GitHub Activity
-
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GeoSyntax&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=GeoSyntax&show_icons=true&hide_title=true&hide_border=true&theme=default&include_all_commits=true&count_private=true"
-    alt="GeoSyntax GitHub stats"
-  />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoSyntax&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoSyntax&layout=compact&hide_border=true&theme=default&langs_count=8"
-    alt="Most used public languages"
-  />
-</picture>
-
-</div>
-
-## 维护节奏
-
-- 公开内容先检查隐私，再发布。
-- GitHub 活跃度以真实学习和项目维护为准。
-- 私有仓库用于记录周报、项目维护日志和复盘。
-- 不为了贡献图制造无意义提交。
-
-## 正在整理
-
-| 内容 | 状态 |
+| Layer | Tools |
 | --- | --- |
-| 个人主页 README | 中文化，美化布局，继续调整展示结构 |
-| 私有学习记录 | 按周维护，控制提交数量 |
-| 项目公开链接 | 暂缓展示，等待逐项复查 |
-| 技术方向说明 | 持续补充 Agent、RAG、GIS 相关实践 |
+| Backend | Python, FastAPI, SQLAlchemy, SQLite, automation scripts |
+| Retrieval | FTS, Vector Search, RRF, Reranking, domain knowledge bases |
+| Frontend | TypeScript, React, React Flow, TanStack Query, Vue |
+| Tooling | Go, JavaScript, CLI tooling, browser scripts, protocol adapters |
+| GIS | Spatial data, Web GIS, WebGL, PostGIS, map interaction |
+
+## 正在打磨的方向
+
+| 方向 | 现在的重点 | 输出形式 |
+| --- | --- | --- |
+| Agent 应用 | 工作流拆解、工具调用、流式状态 | 架构记录、实验原型、可复用模块 |
+| RAG 系统 | 检索融合、重排、领域资料组织 | 检索面板、知识库实践、调试记录 |
+| 自动化工具 | 日常流程工具化、协议适配 | CLI、小脚本、浏览器辅助工具 |
+| GIS 可视化 | 空间数据表达、地图交互 | Web 可视化 Demo、技术笔记 |
+
+## 公开原则
+
+暂时不在主页直接展示具体仓库列表。原因不是隐藏项目，而是希望公开内容更稳妥：
+
+- 先确认仓库内容适合外部访问；
+- 先清理不必要的个人识别信息；
+- 先补齐 README、使用说明和维护记录；
+- 再把适合展示的项目链接放到主页。
+
+```text
+Profile README   展示方向、能力结构和维护原则
+Public repos      放整理完成、适合外部查看的项目
+Private notes     放学习日志、项目复盘和发布前检查
+```
+
+## 维护方式
+
+- 每周保持少量真实维护，不制造无意义提交。
+- 公开内容优先服务于“别人能看懂、能判断、能复现”。
+- 项目说明尽量写清楚：问题、方案、技术栈、当前状态和下一步。
+- 新增公开链接前，先做内容复查和最小化公开处理。
+
+## 当前状态
+
+| Item | Status |
+| --- | --- |
+| Profile README | 中文化、匿名化、面向外部访客重新组织 |
+| Activity Notes | 使用私有记录按周维护学习与项目复盘 |
+| Project Links | 暂缓展示，等待逐项整理和复查 |
+| Portfolio Site | 本地版本已搭建，后续可再发布独立网页 |
 
 ---
 
 <div align="center">
 
-`Agent 工作流` · `RAG 系统` · `自动化工具` · `GIS 可视化`
+**Agent 工作流 · RAG 系统 · 自动化工具 · GIS / Web 可视化**
 
 </div>
