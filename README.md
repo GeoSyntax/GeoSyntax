@@ -1,139 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:b45309,100:059669&text=GeoSyntax&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Python%20%C2%B7%20Agent%20%C2%B7%20RAG%20%C2%B7%20GIS&descAlignY=62&descSize=16" alt="GeoSyntax profile banner" />
+# GeoSyntax
 
-[![Profile views](https://komarev.com/ghpvc/?username=GeoSyntax&style=flat-square&color=b45309)](https://github.com/GeoSyntax)
-[![GitHub followers](https://img.shields.io/github/followers/GeoSyntax?style=flat-square&label=Followers&color=059669)](https://github.com/GeoSyntax?tab=followers)
-[![Public repos](https://img.shields.io/badge/Public%20Repos-Open%20Source-b45309?style=flat-square)](https://github.com/GeoSyntax?tab=repositories)
+**Python · Agent · RAG · GIS / Web Visualization**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=451A03&center=true&vCenter=true&width=720&lines=Building+small+tools+around+Agent+workflows;RAG+systems+%C2%B7+automation+%C2%B7+GIS+visualization;Keeping+public+work+useful%2C+minimal%2C+and+maintainable" alt="typing intro" />
+把检索、自动化、空间数据和小型工具做成可维护的工程实践。
 
 </div>
 
 ---
 
-## About
+## 主页说明
 
-I work around **Python**, **Agent workflows**, **RAG systems**, and **GIS/Web visualization**.
+这个主页采用中文为主的展示方式。为了避免外部图片服务加载失败，当前版本尽量使用 GitHub 原生 Markdown、表格和文本结构，不依赖横幅图、动态 SVG、统计图片或徽章图片。
 
-This profile keeps personal identity details intentionally minimal. Public repositories are used for projects that are ready to share; private notes are used for learning logs, maintenance records, and privacy checks.
+个人信息默认保持最小化：不展示可识别身份的细节和本地文件。后续如果需要公开某些内容，会先检查再补充。
 
 ```text
-Focus     Agent workflows / RAG / automation / GIS visualization
-Build     small utilities, protocol adapters, CLI tools, web experiments
-Style     practical, maintainable, privacy-aware
+方向    Agent 工作流 / RAG 系统 / 自动化工具 / GIS 可视化
+产出    小型工具、协议适配、命令行工具、前端实验、知识库实践
+原则    可维护、可复盘、不过度公开个人信息
 ```
 
-## Current Focus
+## 当前关注
 
 <table>
   <tr>
     <td width="50%">
-      <b>Agent Engineering</b><br />
-      Task decomposition, tool calling, streaming status, and observable workflow execution.
+      <b>Agent 工作流</b><br />
+      关注任务拆解、工具调用、流式状态、工作流可观察性，以及多步骤任务的稳定执行。
     </td>
     <td width="50%">
-      <b>RAG Systems</b><br />
-      Full-text search, vector retrieval, reranking, and domain documentation organization.
+      <b>RAG 与领域知识库</b><br />
+      关注全文检索、向量检索、结果融合、重排策略，以及专业文档的组织方式。
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <b>Web Automation</b><br />
-      Browser scripts, CLI utilities, protocol adapters, and small workflow tools.
+      <b>Web 与自动化</b><br />
+      关注浏览器脚本、小型 CLI、协议适配、接口封装和日常工作流工具化。
     </td>
     <td width="50%">
-      <b>GIS / Visualization</b><br />
-      Spatial data, map interaction, WebGL, and web-based visualization experiments.
+      <b>GIS / Web 可视化</b><br />
+      关注空间数据、地图交互、WebGL、PostGIS 和面向 Web 的可视化表达。
     </td>
   </tr>
 </table>
 
-## Selected Public Work
+## 技术栈
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [ds2api](https://github.com/GeoSyntax/ds2api) | DeepSeek-compatible middleware interface and high-concurrency protocol adaptation exploration. | Go |
-| [claude-code-sourcemap](https://github.com/GeoSyntax/claude-code-sourcemap) | Claude Code related source-map tooling experiment. | TypeScript |
-| [bilibili-auto-subtitle](https://github.com/GeoSyntax/bilibili-auto-subtitle) | Subtitle automation utility for Bilibili workflows. | JavaScript |
-| [duckmail](https://github.com/GeoSyntax/duckmail) | Mail-related utility project and TypeScript practice. | TypeScript |
-| [vphone-cli](https://github.com/GeoSyntax/vphone-cli) | CLI-oriented Python tool practice. | Python |
-| [linuxdo-auto-checkin](https://github.com/GeoSyntax/linuxdo-auto-checkin) | Linux.do forum check-in userscript. | JavaScript |
+| 方向 | 常用技术 |
+| --- | --- |
+| Python 后端 | Python, FastAPI, SQLAlchemy, SQLite, 自动化脚本 |
+| RAG 检索 | FTS, Vector Search, RRF, Reranking, Domain Knowledge Base |
+| 前端工程 | TypeScript, React, React Flow, TanStack Query, Vue |
+| 工具开发 | Go, JavaScript, CLI, Browser Script, Protocol Adapter |
+| GIS 可视化 | Spatial Data, Web GIS, WebGL, PostGIS, Map Interaction |
 
-## Toolbox
+## 项目展示策略
 
-<p>
-  <img src="https://img.shields.io/badge/Python-292524?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-292524?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-292524?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Go-292524?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/React-292524?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-292524?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQLite-292524?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PostGIS-292524?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
-  <img src="https://img.shields.io/badge/Git-292524?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+暂时不在主页直接展示具体仓库列表。
+
+目前更希望主页先表达技术方向和维护习惯；具体项目链接会在确认内容适合公开、没有隐私风险之后再逐步补充。
 
 ```text
-Agent       LangGraph / tool calling / workflow state / streaming events
-RAG         FTS / vector search / RRF / reranking / domain knowledge bases
-Frontend    React / TypeScript / React Flow / TanStack Query
-Backend     Python / FastAPI / SQLAlchemy / SQLite / automation scripts
-GIS         spatial data / Web GIS / WebGL / PostGIS / visualization
+公开主页      展示方向、技术栈、维护原则
+公开仓库      放已经整理过、适合分享的项目
+私有记录      放学习日志、项目复盘、隐私检查和阶段总结
 ```
 
-## Activity
+## 维护节奏
 
-<div align="center">
+- 公开内容先检查隐私，再发布。
+- GitHub 活跃度以真实学习和项目维护为准。
+- 私有仓库用于记录周报、项目维护日志和复盘。
+- 不为了贡献图制造无意义提交。
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GeoSyntax&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=GeoSyntax&show_icons=true&hide_title=true&hide_border=true&theme=default&include_all_commits=true&count_private=true"
-    alt="GeoSyntax GitHub stats"
-  />
-</picture>
+## 正在整理
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoSyntax&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoSyntax&layout=compact&hide_border=true&theme=default&langs_count=8"
-    alt="Most used public languages"
-  />
-</picture>
+| 内容 | 状态 |
+| --- | --- |
+| 个人主页 README | 已匿名化，继续优化展示结构 |
+| 私有学习记录 | 按周维护，控制提交数量 |
+| 项目公开链接 | 暂缓展示，等待逐项复查 |
+| 技术方向说明 | 持续补充 Agent、RAG、GIS 相关实践 |
 
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=GeoSyntax&theme=flat&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" alt="GitHub profile trophies" />
-
-</div>
-
-## Repository Map
+## 关键词
 
 ```text
-public repos     organized projects and shareable experiments
-private notes    weekly records, maintenance logs, privacy checks
-profile README   concise public entry point for current work
+Agent Engineering    RAG Systems          Python Backend
+Web Automation       TypeScript Frontend  GIS Visualization
+CLI Tools            Protocol Adapter     Privacy-aware Profile
 ```
-
-## Notes
-
-- Public profile content avoids real identity details by default.
-- Contributions are kept tied to real learning and project maintenance.
-- New public links are added only after the repository content is reviewed.
 
 ---
 
 <div align="center">
 
-`Agent workflows` · `RAG systems` · `Automation tools` · `GIS visualization`
+**保持真实维护，少量公开，逐步整理。**
 
 </div>
