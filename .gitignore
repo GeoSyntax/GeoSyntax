@@ -1,0 +1,15 @@
+.env
+.env.*
+*.pdf
+*.doc
+*.docx
+*.key
+*.pem
+*.p12
+*.pfx
+.DS_Store
+Thumbs.db
+node_modules
+dist
+build
+backups/
