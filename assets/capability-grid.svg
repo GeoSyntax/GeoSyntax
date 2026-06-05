@@ -1,0 +1,33 @@
+<svg width="1100" height="330" viewBox="0 0 1100 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Capability grid</title>
+  <desc id="desc">Four capability cards for Agent Engineering, RAG Systems, Backend Automation and GIS Visualization.</desc>
+  <rect width="1100" height="330" fill="#ffffff"/>
+  <g transform="translate(10 10)">
+    <rect width="520" height="140" rx="10" fill="#fff7ed" stroke="#fed7aa"/>
+    <circle cx="54" cy="70" r="28" fill="#ffffff" stroke="#fdba74"/>
+    <path d="M42 70h24M54 58v24" stroke="#b45309" stroke-width="5" stroke-linecap="round"/>
+    <text x="102" y="58" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="22" font-weight="750">Agent Engineering</text>
+    <text x="102" y="88" fill="#57534e" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="15">任务拆解 · 工具调用 · 流式状态 · 可观察工作流</text>
+  </g>
+  <g transform="translate(570 10)">
+    <rect width="520" height="140" rx="10" fill="#f0fdf4" stroke="#bbf7d0"/>
+    <circle cx="54" cy="70" r="28" fill="#ffffff" stroke="#86efac"/>
+    <path d="M39 74c12-24 30-24 42 0M54 50l28 42" stroke="#059669" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="102" y="58" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="22" font-weight="750">RAG Systems</text>
+    <text x="102" y="88" fill="#57534e" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="15">全文检索 · 向量检索 · 融合排序 · 领域知识库</text>
+  </g>
+  <g transform="translate(10 180)">
+    <rect width="520" height="140" rx="10" fill="#fafaf9" stroke="#d6d3d1"/>
+    <circle cx="54" cy="70" r="28" fill="#ffffff" stroke="#d6d3d1"/>
+    <path d="M38 57h31M38 70h42M38 83h24" stroke="#57534e" stroke-width="5" stroke-linecap="round"/>
+    <text x="102" y="58" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="22" font-weight="750">Backend & Automation</text>
+    <text x="102" y="88" fill="#57534e" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="15">Python 服务 · CLI 工具 · 浏览器脚本 · 协议适配</text>
+  </g>
+  <g transform="translate(570 180)">
+    <rect width="520" height="140" rx="10" fill="#ecfdf5" stroke="#a7f3d0"/>
+    <circle cx="54" cy="70" r="28" fill="#ffffff" stroke="#6ee7b7"/>
+    <path d="M33 70h42M54 49v42M39 55c16 10 31 10 46 0M39 85c16-10 31-10 46 0" stroke="#047857" stroke-width="4.5" stroke-linecap="round"/>
+    <text x="102" y="58" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="22" font-weight="750">GIS / Visualization</text>
+    <text x="102" y="88" fill="#57534e" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="15">空间数据 · 地图交互 · WebGL · PostGIS</text>
+  </g>
+</svg>

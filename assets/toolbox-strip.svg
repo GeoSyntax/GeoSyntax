@@ -1,0 +1,20 @@
+<svg width="1100" height="190" viewBox="0 0 1100 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Toolbox strip</title>
+  <desc id="desc">A compact technical toolbox strip.</desc>
+  <rect width="1100" height="190" fill="#ffffff"/>
+  <rect x="10" y="12" width="1080" height="166" rx="10" fill="#faf8f5" stroke="#e5e1dc"/>
+  <text x="38" y="54" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="24" font-weight="750">Toolbox</text>
+  <text x="38" y="82" fill="#78716c" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="15">按项目链路组织，而不是简单堆技术名词</text>
+  <g transform="translate(38 110)">
+    <rect width="94" height="38" rx="7" fill="#292524"/><text x="47" y="25" text-anchor="middle" fill="#ffffff" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">Python</text>
+    <rect x="108" width="98" height="38" rx="7" fill="#292524"/><text x="157" y="25" text-anchor="middle" fill="#ffffff" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">FastAPI</text>
+    <rect x="220" width="120" height="38" rx="7" fill="#292524"/><text x="280" y="25" text-anchor="middle" fill="#ffffff" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">TypeScript</text>
+    <rect x="354" width="82" height="38" rx="7" fill="#292524"/><text x="395" y="25" text-anchor="middle" fill="#ffffff" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">React</text>
+    <rect x="450" width="70" height="38" rx="7" fill="#292524"/><text x="485" y="25" text-anchor="middle" fill="#ffffff" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">Go</text>
+    <rect x="534" width="94" height="38" rx="7" fill="#b45309"/><text x="581" y="25" text-anchor="middle" fill="#ffffff" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">RAG</text>
+    <rect x="642" width="104" height="38" rx="7" fill="#b45309"/><text x="694" y="25" text-anchor="middle" fill="#ffffff" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">LangGraph</text>
+    <rect x="760" width="92" height="38" rx="7" fill="#059669"/><text x="806" y="25" text-anchor="middle" fill="#ffffff" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">PostGIS</text>
+    <rect x="866" width="84" height="38" rx="7" fill="#059669"/><text x="908" y="25" text-anchor="middle" fill="#ffffff" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">WebGL</text>
+    <rect x="964" width="66" height="38" rx="7" fill="#059669"/><text x="997" y="25" text-anchor="middle" fill="#ffffff" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">GIS</text>
+  </g>
+</svg>
