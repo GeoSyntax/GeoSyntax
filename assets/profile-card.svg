@@ -1,35 +1,37 @@
-<svg width="1100" height="220" viewBox="0 0 1100 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1100" height="240" viewBox="0 0 1100 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Profile summary card</title>
   <desc id="desc">A public-facing profile summary with placeholder school and email.</desc>
-  <rect width="1100" height="220" fill="#ffffff"/>
-  <rect x="10" y="12" width="1080" height="196" rx="12" fill="#faf8f5" stroke="#e5e1dc"/>
-  <g transform="translate(38 42)">
-    <rect width="234" height="126" rx="10" fill="#ffffff" stroke="#e5e1dc"/>
-    <circle cx="58" cy="63" r="30" fill="#fff7ed" stroke="#fed7aa"/>
-    <path d="M44 64h28M58 50v28" stroke="#b45309" stroke-width="5" stroke-linecap="round"/>
-    <text x="104" y="58" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="18" font-weight="750">公开身份</text>
-    <text x="104" y="84" fill="#78716c" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="14">RAG / Agent 实践者</text>
+  <rect width="1100" height="240" fill="#ffffff"/>
+  <rect x="10" y="12" width="1080" height="216" rx="12" fill="#faf8f5" stroke="#e5e1dc"/>
+  <text x="38" y="52" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="24" font-weight="780">个人信息 · Public Card</text>
+  <text x="38" y="80" fill="#78716c" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="15">以下学校和邮箱是占位内容，用于展示主页结构，后续可替换为真实公开信息。</text>
+  <g transform="translate(38 106)">
+    <rect width="234" height="88" rx="10" fill="#ffffff" stroke="#e5e1dc"/>
+    <circle cx="48" cy="44" r="24" fill="#fff7ed" stroke="#fed7aa"/>
+    <path d="M37 45h22M48 34v22" stroke="#b45309" stroke-width="4.5" stroke-linecap="round"/>
+    <text x="88" y="38" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="17" font-weight="750">公开身份</text>
+    <text x="88" y="63" fill="#78716c" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="14">Agent / RAG 开发者</text>
   </g>
-  <g transform="translate(300 42)">
-    <rect width="234" height="126" rx="10" fill="#ffffff" stroke="#e5e1dc"/>
-    <circle cx="58" cy="63" r="30" fill="#f0fdf4" stroke="#bbf7d0"/>
-    <path d="M39 58h38M45 70h26M51 48h14" stroke="#059669" stroke-width="5" stroke-linecap="round"/>
-    <text x="104" y="58" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="18" font-weight="750">学校</text>
-    <text x="104" y="84" fill="#78716c" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="14">示例大学 · GIS</text>
+  <g transform="translate(300 106)">
+    <rect width="234" height="88" rx="10" fill="#ffffff" stroke="#e5e1dc"/>
+    <circle cx="48" cy="44" r="24" fill="#f0fdf4" stroke="#bbf7d0"/>
+    <path d="M31 40h34M37 52h22M42 31h12" stroke="#059669" stroke-width="4.5" stroke-linecap="round"/>
+    <text x="88" y="38" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="17" font-weight="750">学校</text>
+    <text x="88" y="63" fill="#78716c" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="14">示例科技大学 · GIS</text>
   </g>
-  <g transform="translate(562 42)">
-    <rect width="234" height="126" rx="10" fill="#ffffff" stroke="#e5e1dc"/>
-    <circle cx="58" cy="63" r="30" fill="#fafaf9" stroke="#d6d3d1"/>
-    <path d="M37 53h42v30H37z" stroke="#57534e" stroke-width="4" stroke-linejoin="round"/>
-    <path d="M39 55l19 16 19-16" stroke="#57534e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="104" y="58" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="18" font-weight="750">邮箱</text>
-    <text x="104" y="84" fill="#78716c" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="14">hello@example.com</text>
+  <g transform="translate(562 106)">
+    <rect width="234" height="88" rx="10" fill="#ffffff" stroke="#e5e1dc"/>
+    <circle cx="48" cy="44" r="24" fill="#fafaf9" stroke="#d6d3d1"/>
+    <path d="M31 35h34v24H31z" stroke="#57534e" stroke-width="3.8" stroke-linejoin="round"/>
+    <path d="M33 37l15 13 15-13" stroke="#57534e" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="88" y="38" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="17" font-weight="750">邮箱</text>
+    <text x="88" y="63" fill="#78716c" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="14">hello@example.com</text>
   </g>
-  <g transform="translate(824 42)">
-    <rect width="234" height="126" rx="10" fill="#ffffff" stroke="#e5e1dc"/>
-    <circle cx="58" cy="63" r="30" fill="#ecfdf5" stroke="#a7f3d0"/>
-    <path d="M38 62l13 13 28-32" stroke="#047857" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="104" y="58" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="18" font-weight="750">状态</text>
-    <text x="104" y="84" fill="#78716c" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="14">项目整理中</text>
+  <g transform="translate(824 106)">
+    <rect width="234" height="88" rx="10" fill="#ffffff" stroke="#e5e1dc"/>
+    <circle cx="48" cy="44" r="24" fill="#ecfdf5" stroke="#a7f3d0"/>
+    <path d="M32 44h32M48 28v32M36 34c12 8 24 8 36 0M36 58c12-8 24-8 36 0" stroke="#047857" stroke-width="3.6" stroke-linecap="round"/>
+    <text x="88" y="38" fill="#292524" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="17" font-weight="750">方向</text>
+    <text x="88" y="63" fill="#78716c" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Noto Sans SC', sans-serif" font-size="14">AI × 空间数据</text>
   </g>
 </svg>
