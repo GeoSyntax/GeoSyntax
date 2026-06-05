@@ -51,9 +51,9 @@
       <sub>FastAPI · SQLite FTS · LanceDB · RRF · SSE</sub>
     </td>
     <td width="33%">
-      <b>空间数据与领域资料整理</b><br /><br />
-      基于专业背景整理遥感资料、ENVI / IDL 文档和空间数据材料，用于知识库和 Agent 场景。<br /><br />
-      <sub>ENVI / IDL · GeoJSON · Domain Docs</sub>
+      <b>WebGIS 应用练习</b><br /><br />
+      基于地理信息科学背景，练习 WebGIS 数据组织、地图交互和前端可视化，并探索其与 Agent / RAG 应用的结合。<br /><br />
+      <sub>WebGIS · GeoJSON · Spatial Data</sub>
     </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@
 | RAG 检索 | FTS + Vector Search + RRF + Reranking |
 | 流式交互 | WebSocket / SSE 展示任务状态与生成过程 |
 | 前端可视化 | React Flow 展示流程节点和 DAG 状态 |
-| 领域材料 | 将专业文档和空间数据整理为可检索知识上下文 |
+| WebGIS | 组织 GeoJSON / 空间数据，练习地图交互与前端可视化表达 |
 
 ## 🛠️ Tech Stack
 
