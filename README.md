@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=128&color=0:292524,100:451a03&text=GeoSyntax&fontColor=ffffff&fontSize=42&desc=Python%20%2F%20Agent%20%2F%20RAG%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20%E6%96%B0%E7%96%86%E5%A4%A7%E5%AD%A6%20GIS%20%E6%96%B9%E5%90%91&descSize=16&descAlignY=74" alt="GeoSyntax" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=128&color=0:292524,100:451a03&text=GeoSyntax&fontColor=ffffff&fontSize=42&desc=Python%20Backend%20%2F%20AI%20Agent%20%2F%20RAG%20%2F%20Full-stack%20Practice&descSize=16&descAlignY=74" alt="GeoSyntax" width="100%" />
 
 <br />
 
@@ -13,11 +13,11 @@
 
 ## 👋 关于我
 
-我是 **新疆大学地理信息科学方向** 的本科生，主要关注 **Python 后端、AI Agent、RAG 系统与 GIS / 遥感空间数据应用**。
+我是 **新疆大学地理信息科学方向** 的本科生，主线关注 **Python 后端、AI Agent 开发、RAG 系统与全栈应用实践**。GIS / 遥感空间数据是我的专业背景之一，我了解一些相关概念和工具，但不会把自己强绑定为 GIS 开发者。
 
-我感兴趣的不是单独调用模型或写一个页面，而是把一个真实问题拆成可以运行的系统：从资料检索、任务规划、后端接口，到前端可视化和后续维护，尽量形成清晰、可复盘、可继续扩展的工程链路。
+我感兴趣的不是单独调用模型或写一个页面，而是把一个真实问题拆成可以运行的系统：从资料检索、任务规划、后端接口，到前端交互和后续维护，尽量形成清晰、可复盘、可继续扩展的工程链路。
 
-我对 AI Agent 的期待很简单：希望它不只是回答问题，而是成为可以一起学习、一起拆解问题、一起完成项目的伙伴。长期来看，我希望跟着 Agent 一起学习，把复杂知识和工具变得更容易使用，从小的工程实践开始，做出真正能改变现实问题的产品。
+我对 AI Agent 非常感兴趣。期待它不只是回答问题，而是成为可以一起学习、一起拆解问题、一起完成项目的伙伴。长期来看，我希望跟着 Agent 一起学习，把复杂知识和工具变得更容易使用，从小的工程实践开始，做出真正能改变现实问题的产品。
 
 <table>
   <tr>
@@ -33,8 +33,8 @@
     </td>
     <td width="33%">
       <b>🧭 当前定位</b><br />
-      AI Agent × GIS<br />
-      <sub>Agent / RAG / Remote Sensing</sub>
+      AI Agent 开发<br />
+      <sub>Python / RAG / Full-stack</sub>
     </td>
   </tr>
 </table>
@@ -54,9 +54,9 @@
       <sub>FastAPI · SQLite FTS · LanceDB · RRF · SSE · React</sub>
     </td>
     <td width="33%">
-      <b>GIS / 遥感空间数据练习</b><br /><br />
-      围绕遥感资料、ENVI / IDL 文档、空间数据组织和 WebGIS 表达持续积累能力，探索 AI 应用与地理信息场景结合的工程方式。<br /><br />
-      <sub>ENVI / IDL · Remote Sensing · GeoJSON · WebGIS</sub>
+      <b>空间数据与专业文档练习</b><br /><br />
+      基于专业背景接触遥感资料、ENVI / IDL 文档和空间数据组织，把它们作为 RAG 与 Agent 应用的领域材料。<br /><br />
+      <sub>ENVI / IDL · Remote Sensing · GeoJSON · Domain Docs</sub>
     </td>
   </tr>
 </table>
@@ -69,7 +69,7 @@
 | 混合检索与 RAG | 组合全文检索、向量检索、RRF 融合与重排策略，提升专业资料问答的可解释性 |
 | 流式交互体验 | 使用 WebSocket / SSE 展示任务生命周期、生成过程和用户中断反馈 |
 | 前端可视化 | 使用 React Flow / Web 可视化方式展示 DAG、流程节点、检索结果和系统状态 |
-| GIS 领域背景 | 结合地理信息科学、遥感资料、ENVI / IDL、空间数据组织与 WebGIS 表达，形成 AI Agent + GIS 的长期方向 |
+| 专业背景补充 | 了解地理信息科学、遥感资料、ENVI / IDL 与空间数据组织，可作为 Agent / RAG 应用的领域材料 |
 
 ## 🛠️ 技术栈
 
@@ -83,7 +83,7 @@
 <img src="https://img.shields.io/badge/RAG-FTS%20%2B%20Vector-059669?style=flat-square" alt="RAG" />
 <img src="https://img.shields.io/badge/Backend-FastAPI-292524?style=flat-square" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Frontend-React%20Flow-292524?style=flat-square" alt="React Flow" />
-<img src="https://img.shields.io/badge/GIS-ENVI%20%2F%20IDL-059669?style=flat-square" alt="ENVI / IDL" />
+<img src="https://img.shields.io/badge/Domain-GIS%20Basics-059669?style=flat-square" alt="GIS Basics" />
 
 </div>
 
@@ -93,7 +93,7 @@
 | RAG 检索 | SQLite FTS, LanceDB, Vector Search, RRF, Reranking, Knowledge Base |
 | Python 后端 | Python, FastAPI, SQLAlchemy, SQLite, automation scripts |
 | 前端工程 | TypeScript, React, React Flow, TanStack Query, Vue |
-| GIS / 遥感 | 地理信息科学, Remote Sensing, ENVI / IDL, GeoJSON, WebGIS, Spatial Data |
+| 领域背景 | GIS Basics, Remote Sensing, ENVI / IDL, GeoJSON, Spatial Data |
 
 ## 🔭 当前关注
 
@@ -110,8 +110,8 @@
   </tr>
   <tr>
     <td width="50%">
-      <b>AI Agent + GIS 场景</b><br />
-      探索如何把遥感资料、ENVI / IDL 文档、空间数据组织和 AI Agent 应用结合起来。
+      <b>Agent 学习伙伴</b><br />
+      探索如何让 Agent 参与学习、拆解问题、辅助编码和项目复盘，成为长期共同成长的工具伙伴。
     </td>
     <td width="50%">
       <b>可部署全栈应用</b><br />
