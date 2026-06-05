@@ -13,11 +13,11 @@
 
 ## 👋 关于我
 
-我是 **新疆大学地理信息科学方向** 的本科生，主线关注 **Python 后端、AI Agent 开发、RAG 系统与全栈应用实践**。GIS / 遥感空间数据是我的专业背景之一，我了解一些相关概念和工具，但不会把自己强绑定为 GIS 开发者。
+我是 **新疆大学地理信息科学方向** 的本科生，主线关注 **Python 后端、AI Agent 开发、RAG 系统与全栈应用实践**。
 
-我感兴趣的不是单独调用模型或写一个页面，而是把一个真实问题拆成可以运行的系统：从资料检索、任务规划、后端接口，到前端交互和后续维护，尽量形成清晰、可复盘、可继续扩展的工程链路。
+我希望把真实问题拆解成可以运行的系统：从资料检索、任务规划、后端接口，到前端交互和持续迭代，形成清晰、可复盘、可扩展的工程链路。
 
-我对 AI Agent 非常感兴趣。期待它不只是回答问题，而是成为可以一起学习、一起拆解问题、一起完成项目的伙伴。长期来看，我希望跟着 Agent 一起学习，把复杂知识和工具变得更容易使用，从小的工程实践开始，做出真正能改变现实问题的产品。
+我对 AI Agent 非常感兴趣。对我来说，Agent 不只是问答工具，更像一个可以一起学习、一起拆解问题、一起完成项目的伙伴。我希望在和 Agent 协作的过程中持续成长，把复杂知识和工具变得更容易使用，从小的工程实践开始，做出真正能改变现实问题的产品。
 
 <table>
   <tr>
@@ -54,9 +54,9 @@
       <sub>FastAPI · SQLite FTS · LanceDB · RRF · SSE · React</sub>
     </td>
     <td width="33%">
-      <b>空间数据与专业文档练习</b><br /><br />
-      基于专业背景接触遥感资料、ENVI / IDL 文档和空间数据组织，把它们作为 RAG 与 Agent 应用的领域材料。<br /><br />
-      <sub>ENVI / IDL · Remote Sensing · GeoJSON · Domain Docs</sub>
+      <b>领域文档与空间数据整理</b><br /><br />
+      结合专业学习背景，整理遥感资料、ENVI / IDL 文档和空间数据材料，用于 RAG 知识库和 Agent 应用场景。<br /><br />
+      <sub>Domain Docs · ENVI / IDL · GeoJSON · Spatial Data</sub>
     </td>
   </tr>
 </table>
@@ -69,7 +69,7 @@
 | 混合检索与 RAG | 组合全文检索、向量检索、RRF 融合与重排策略，提升专业资料问答的可解释性 |
 | 流式交互体验 | 使用 WebSocket / SSE 展示任务生命周期、生成过程和用户中断反馈 |
 | 前端可视化 | 使用 React Flow / Web 可视化方式展示 DAG、流程节点、检索结果和系统状态 |
-| 专业背景补充 | 了解地理信息科学、遥感资料、ENVI / IDL 与空间数据组织，可作为 Agent / RAG 应用的领域材料 |
+| 领域材料整理 | 将专业文档、遥感资料、ENVI / IDL 与空间数据材料整理为 Agent / RAG 可使用的知识上下文 |
 
 ## 🛠️ 技术栈
 
@@ -93,7 +93,7 @@
 | RAG 检索 | SQLite FTS, LanceDB, Vector Search, RRF, Reranking, Knowledge Base |
 | Python 后端 | Python, FastAPI, SQLAlchemy, SQLite, automation scripts |
 | 前端工程 | TypeScript, React, React Flow, TanStack Query, Vue |
-| 领域背景 | GIS Basics, Remote Sensing, ENVI / IDL, GeoJSON, Spatial Data |
+| 领域材料 | Remote Sensing Docs, ENVI / IDL, GeoJSON, Spatial Data |
 
 ## 🔭 当前关注
 
@@ -135,10 +135,10 @@
 - 邮箱：20231212219@stu.xju.edu.cn
 - GitHub：GeoSyntax
 
-具体项目链接会在 README、运行方式、截图和隐私检查完成后逐步补充。
+欢迎通过邮箱交流 AI Agent、RAG、Python 后端与全栈应用相关的学习和项目想法。
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&color=0:292524,100:451a03&text=AI%20Agent%20%C2%B7%20RAG%20%E7%B3%BB%E7%BB%9F%20%C2%B7%20GIS%20%2F%20%E9%81%A5%E6%84%9F%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE&fontColor=ffffff&fontSize=16" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&color=0:292524,100:451a03&text=AI%20Agent%20%C2%B7%20RAG%20%E7%B3%BB%E7%BB%9F%20%C2%B7%20Python%20Backend%20%C2%B7%20Full-stack%20Practice&fontColor=ffffff&fontSize=16" alt="Footer" width="100%" />
 
 </div>
