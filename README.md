@@ -1,87 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:292524,100:451a03&text=GeoSyntax&fontColor=ffffff&fontSize=42&desc=Python%20%2F%20Agent%20%2F%20RAG%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20GIS%20%2F%20Web%20%E5%8F%AF%E8%A7%86%E5%8C%96%E6%96%B9%E5%90%91&descSize=16&descAlignY=72" alt="GeoSyntax" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=128&color=0:292524,100:451a03&text=GeoSyntax&fontColor=ffffff&fontSize=42&desc=Python%20%2F%20Agent%20%2F%20RAG%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20%E6%96%B0%E7%96%86%E5%A4%A7%E5%AD%A6%20GIS%20%E6%96%B9%E5%90%91&descSize=16&descAlignY=74" alt="GeoSyntax" width="100%" />
 
 <br />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=GeoSyntax&style=flat-square&color=b45309)](https://github.com/GeoSyntax)
 [![Followers](https://img.shields.io/github/followers/GeoSyntax?style=flat-square&label=Followers&color=059669)](https://github.com/GeoSyntax?tab=followers)
-[![School](https://img.shields.io/badge/School-%E7%A4%BA%E4%BE%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6-292524?style=flat-square)](#)
-[![Email](https://img.shields.io/badge/Email-hello%40example.com-292524?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@example.com)
+[![School](https://img.shields.io/badge/School-%E6%96%B0%E7%96%86%E5%A4%A7%E5%AD%A6-292524?style=flat-square)](#)
+[![Email](https://img.shields.io/badge/Email-20231212219%40stu.xju.edu.cn-292524?style=flat-square&logo=gmail&logoColor=white)](mailto:20231212219@stu.xju.edu.cn)
 
 </div>
 
-## 👋 你好，我是 GeoSyntax
+## 👋 关于我
 
-我是一名正在成长中的 **Python / Agent / RAG 应用开发者**，有 **地理信息与空间数据方向** 的学习背景。  
-我关注的不是单点功能，而是完整链路：**资料检索 → 任务拆解 → 后端服务 → 前端可视化 → 文档复盘 → 持续维护**。
+我是 **新疆大学地理信息科学方向** 的本科生，主要关注 **Python 后端、Agent 工作流、RAG 系统与 GIS / Web 可视化**。
+
+我感兴趣的不是单独调用模型或写一个页面，而是把一个真实问题拆成可以运行的系统：从资料检索、任务规划、后端接口，到前端可视化和后续维护，尽量形成清晰、可复盘、可继续扩展的工程链路。
 
 <table>
   <tr>
     <td width="33%">
       <b>🎓 学习背景</b><br />
-      示例科技大学 · GIS 方向<br />
-      <sub>占位信息，后续替换</sub>
+      新疆大学<br />
+      <sub>地理信息科学 / 空间数据方向</sub>
     </td>
     <td width="33%">
-      <b>📬 联系方式</b><br />
-      hello@example.com<br />
-      <sub>占位信息，后续替换</sub>
+      <b>📬 联系邮箱</b><br />
+      20231212219@stu.xju.edu.cn<br />
+      <sub>欢迎交流项目、学习和合作想法</sub>
     </td>
     <td width="33%">
       <b>🧭 当前定位</b><br />
-      AI 应用工程 × 空间数据<br />
-      <sub>Agent / RAG / GIS</sub>
+      AI 应用工程 × GIS<br />
+      <sub>Agent / RAG / Web Visualization</sub>
     </td>
   </tr>
 </table>
 
-## 🧩 我在构建什么
-
-<table>
-  <tr>
-    <td width="50%">
-      <b>🧠 Multi-Agent 应用</b><br />
-      把复杂问题拆成规划、搜索、分析、写作等步骤，让执行过程可追踪、可复盘、可展示。
-    </td>
-    <td width="50%">
-      <b>🔎 RAG 与知识库</b><br />
-      整理专业文档、脚本示例和代码资料，组合全文检索、向量检索、融合排序和重排策略。
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>⚙️ Python 后端与自动化</b><br />
-      使用 FastAPI、SQLAlchemy、SQLite、脚本和 CLI，把重复流程整理成可维护的小工具。
-    </td>
-    <td width="50%">
-      <b>🗺️ GIS / Web 可视化</b><br />
-      关注空间数据、地图交互、PostGIS、WebGL 和前端可视化，把专业背景和 AI 应用结合。
-    </td>
-  </tr>
-</table>
-
-## 🚀 项目经历
+## 🚀 代表项目经历
 
 <table>
   <tr>
     <td width="33%">
       <b>Multi-Agent 智能研究助手</b><br /><br />
-      围绕复杂问题研究场景，拆分规划、搜索、分析和写作流程。重点关注 Agent 状态、工具调用和前端可观察性。<br /><br />
+      面向复杂问题研究场景，将任务拆分为规划、搜索、分析和写作流程。重点关注 Agent 状态、工具调用、结构化中间结果和前端可观察性。<br /><br />
       <sub>LangGraph · Search Tool · WebSocket · React Flow</sub>
     </td>
     <td width="33%">
-      <b>领域文档 RAG 面板</b><br /><br />
-      围绕专业文档、脚本示例和代码资料，构建可调试、可流式输出的检索增强问答面板。<br /><br />
-      <sub>FastAPI · SQLite FTS · LanceDB · RRF · SSE</sub>
+      <b>IDL / 领域文档 RAG 面板</b><br /><br />
+      面向专业文档、脚本示例和代码资料，构建可调试、可流式输出的检索增强问答面板，关注检索质量和上下文组织。<br /><br />
+      <sub>FastAPI · SQLite FTS · LanceDB · RRF · SSE · React</sub>
     </td>
     <td width="33%">
       <b>GIS / Web 可视化练习</b><br /><br />
-      持续整理空间数据、地图交互和 Web 可视化能力，探索 AI 应用与空间数据场景的结合。<br /><br />
+      围绕空间数据、地图交互和 Web 可视化持续积累能力，探索 AI 应用与地理信息场景结合的工程方式。<br /><br />
       <sub>PostGIS · WebGL · Web GIS · Spatial Data</sub>
     </td>
   </tr>
 </table>
+
+## ✨ 项目亮点
+
+| 能力 | 具体体现 |
+| --- | --- |
+| 多智能体流程设计 | Planner / Searcher / Analyst / Writer 等角色协作，关注状态流转和中间结果管理 |
+| 混合检索与 RAG | 组合全文检索、向量检索、RRF 融合与重排策略，提升专业资料问答的可解释性 |
+| 流式交互体验 | 使用 WebSocket / SSE 展示任务生命周期、生成过程和用户中断反馈 |
+| 前端可视化 | 使用 React Flow / Web 可视化方式展示 DAG、流程节点、检索结果和系统状态 |
+| GIS 领域背景 | 结合空间数据、PostGIS、WebGL 与遥感/IDL 资料，形成 AI + GIS 的长期方向 |
 
 ## 🛠️ 技术栈
 
@@ -99,22 +85,36 @@
 
 </div>
 
+| 方向 | 主要技术 |
+| --- | --- |
+| AI / Agent | LangGraph, ReAct, Tool Calling, workflow state, streaming events |
+| RAG 检索 | SQLite FTS, LanceDB, Vector Search, RRF, Reranking, Knowledge Base |
+| Python 后端 | Python, FastAPI, SQLAlchemy, SQLite, automation scripts |
+| 前端工程 | TypeScript, React, React Flow, TanStack Query, Vue |
+| GIS 可视化 | Spatial data, Web GIS, WebGL, PostGIS, Map interaction |
+
+## 🔭 当前关注
+
 <table>
   <tr>
-    <td><b>后端服务</b></td>
-    <td>Python, FastAPI, SQLAlchemy, SQLite, automation scripts</td>
+    <td width="50%">
+      <b>Agent 可观察性</b><br />
+      让多步骤任务的规划、工具调用、状态变化和失败原因更容易被用户理解。
+    </td>
+    <td width="50%">
+      <b>RAG 检索质量</b><br />
+      关注检索融合、重排、上下文压缩和专业领域资料的组织方式。
+    </td>
   </tr>
   <tr>
-    <td><b>RAG 检索</b></td>
-    <td>FTS, Vector Search, RRF, Reranking, Domain Knowledge Base</td>
-  </tr>
-  <tr>
-    <td><b>前端工程</b></td>
-    <td>TypeScript, React, React Flow, TanStack Query, Vue</td>
-  </tr>
-  <tr>
-    <td><b>空间可视化</b></td>
-    <td>Spatial data, Web GIS, WebGL, PostGIS, Map interaction</td>
+    <td width="50%">
+      <b>AI + GIS 场景</b><br />
+      探索如何把空间数据、遥感资料、地图交互和 AI 应用结合起来。
+    </td>
+    <td width="50%">
+      <b>可部署全栈应用</b><br />
+      从后端接口、前端交互、权限隔离到运行文档，尽量形成完整作品。
+    </td>
   </tr>
 </table>
 
@@ -127,46 +127,16 @@
 
 </div>
 
-## 🧭 我如何做项目
+## 📮 联系
 
-<table>
-  <tr>
-    <td width="20%"><b>讲清问题</b></td>
-    <td>先明确场景、输入、输出和边界，而不是直接写代码。</td>
-  </tr>
-  <tr>
-    <td><b>拆解流程</b></td>
-    <td>把任务拆成可观察的步骤，明确状态和中间结果。</td>
-  </tr>
-  <tr>
-    <td><b>做出原型</b></td>
-    <td>先让系统可运行，再逐步补完整体体验。</td>
-  </tr>
-  <tr>
-    <td><b>补齐文档</b></td>
-    <td>README、运行方式、问题记录、下一步计划都要能被别人看懂。</td>
-  </tr>
-</table>
+- 学校：新疆大学
+- 邮箱：20231212219@stu.xju.edu.cn
+- GitHub：GeoSyntax
 
-## 📌 当前状态
-
-<table>
-  <tr>
-    <td><b>个人主页</b></td>
-    <td>正在调整成更像“对外介绍我”的主页。</td>
-  </tr>
-  <tr>
-    <td><b>项目链接</b></td>
-    <td>暂时不直接放仓库列表，先补 README、截图、运行方式和隐私检查。</td>
-  </tr>
-  <tr>
-    <td><b>学习记录</b></td>
-    <td>使用私有记录按周维护，保持真实提交，不刷贡献图。</td>
-  </tr>
-</table>
+具体项目链接会在 README、运行方式、截图和隐私检查完成后逐步补充。
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&color=0:292524,100:451a03&text=Agent%20%E5%B7%A5%E4%BD%9C%E6%B5%81%20%C2%B7%20RAG%20%E7%B3%BB%E7%BB%9F%20%C2%B7%20%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7%20%C2%B7%20GIS%20%2F%20Web%20%E5%8F%AF%E8%A7%86%E5%8C%96&fontColor=ffffff&fontSize=16" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&color=0:292524,100:451a03&text=Agent%20%E5%B7%A5%E4%BD%9C%E6%B5%81%20%C2%B7%20RAG%20%E7%B3%BB%E7%BB%9F%20%C2%B7%20GIS%20%2F%20Web%20%E5%8F%AF%E8%A7%86%E5%8C%96&fontColor=ffffff&fontSize=16" alt="Footer" width="100%" />
 
 </div>
