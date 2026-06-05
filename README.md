@@ -52,8 +52,8 @@
     </td>
     <td width="33%">
       <b>WebGIS 应用练习</b><br /><br />
-      基于地理信息科学背景，练习 WebGIS 数据组织、地图交互和前端可视化，并探索其与 Agent / RAG 应用的结合。<br /><br />
-      <sub>WebGIS · GeoJSON · Spatial Data</sub>
+      熟悉 Cesium 与 OpenLayers，能够围绕 WebGIS 数据组织、地图交互和前端可视化做应用练习，并探索其与 Agent / RAG 应用的结合。<br /><br />
+      <sub>Cesium · OpenLayers · GeoJSON · Spatial Data</sub>
     </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@
 | RAG 检索 | FTS + Vector Search + RRF + Reranking |
 | 流式交互 | WebSocket / SSE 展示任务状态与生成过程 |
 | 前端可视化 | React Flow 展示流程节点和 DAG 状态 |
-| WebGIS | 组织 GeoJSON / 空间数据，练习地图交互与前端可视化表达 |
+| WebGIS | 熟悉 Cesium / OpenLayers，组织 GeoJSON / 空间数据，练习地图交互与前端可视化表达 |
 
 ## 🛠️ Tech Stack
 
